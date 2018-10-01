@@ -1,8 +1,8 @@
-##Aplicacion del clima en node##
+##Aplicacion del clima en node
 
-Instalar npm ```npm install```
+Instalar npm ```npm install``` para las librerias
 
-##Ejemplo##
-...
-```node app -d Madrid```
-...
+###Ejemplo:
+```
+node app -d Madrid
+```
